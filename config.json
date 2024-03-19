@@ -1,0 +1,18 @@
+
+{
+    "StableDifusionWebuiAPIURL": "http://127.0.0.1:7860",
+    "Step": 28,
+    "W": 768,
+    "H": 512,
+    "Ngtloraselected": [],
+    "Embselected": [],
+    "NGTEmbselected": [],
+    "hi_enable": false,
+    "hr_scale": 1.00,
+    "hr_upscaler": "Latent",
+    "sample_meth": "DPM++ 2M Karras",
+    "hr_second_pass_steps": 0,
+    "seed": -1,
+    "cfg": 7,
+    "disnoise": 0.7
+}
